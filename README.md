@@ -12,4 +12,4 @@ This project requires Python3 and requests package
   pipenv install requests
 
 3. Third run code
-  pipenv run python find_meteors.py
+  pipenv run python meteors/find_meteors.py
